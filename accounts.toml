@@ -1,0 +1,10 @@
+# This file is used to store the credentials of the accounts used for signing in to the website.
+# 这个文件用于存储用于登录网站的账户的凭据。
+title = "Accounts"
+
+[ccw]
+# 共创世界(CCW)的账户
+# Con-Creativity World (CCW) account
+enabled = true
+account_id = "<ACCOUNT>"
+password = "<PASSWORD>"
